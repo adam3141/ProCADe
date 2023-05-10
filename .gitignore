@@ -1,0 +1,6 @@
+# Remove the Bazel artifacts stuff.
+/bazel-*
+
+# IDE stuff that can differ between PCs and platforms
+/.vscode
+
