@@ -4,3 +4,5 @@
 # IDE stuff that can differ between PCs and platforms
 /.vscode
 
+# Compilation database can get quite large, but can be generated locally if required
+compile_commands.json
